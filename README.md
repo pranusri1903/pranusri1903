@@ -16,7 +16,7 @@ I'm Pranjal, a passionate first-year BTech student with a keen interest in softw
   <li>Work on projects that solve real-world problems.</li><br>
 </ul>
 
-## Badges
+## 🎖️ Badges
 ### GSSOC 2024 Extd (Ranked 278/3917)
 <div style='display:flex; align-items:center; gap: 10px;' align='center'><a href="https://gssoc.girlscript.tech/leaderboard">
 <img src="https://raw.githubusercontent.com/GSSoC24/Hack-Web3Conf/refs/heads/main/assets/Hack-Web3Conf%202024%20Badge%20(2).png" width="100px" height="100px" />
@@ -29,6 +29,9 @@ I'm Pranjal, a passionate first-year BTech student with a keen interest in softw
 </a>
 </div>
 </details>
+
+### Hacktoberfest 2024### Hacktoberfest 2024
+[![An image of @pranusri1903's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranusri1903)](https://holopin.io/@pranusri1903)
 
 ## 📫 Let's Connect!
 <ul>
