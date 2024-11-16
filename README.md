@@ -30,7 +30,7 @@ I'm Pranjal, a passionate first-year BTech student with a keen interest in softw
 </div>
 </details>
 
-### Hacktoberfest 2024### Hacktoberfest 2024
+### Hacktoberfest 2024
 [![An image of @pranusri1903's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/pranusri1903)](https://holopin.io/@pranusri1903)
 
 ## 📫 Let's Connect!
